@@ -4,17 +4,19 @@
     "url": "https://donniesky.me",
     "icon": "https://favicons.githubusercontent.com/donniesky.me",
     "slug": "donniesky",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 217,
-    "timeWeek": 240,
-    "timeMonth": 195,
+    "timeDay": 138,
+    "timeWeek": 218,
+    "timeMonth": 190,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
