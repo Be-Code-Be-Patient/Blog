@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/donniesky.me.ico",
     "slug": "donniesky",
     "status": "down",
-    "uptime": "62.97%",
+    "uptime": "62.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.09%",
+    "uptimeYear": "6.82%",
     "time": 191,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 192,
+    "timeYear": 205,
     "dailyMinutesDown": {
-      "2023-06-29": 80,
+      "2023-06-30": 78,
+      "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
       "2023-06-26": 1440,
@@ -356,8 +357,7 @@
       "2022-07-27": 1440,
       "2022-07-26": 1440,
       "2022-07-25": 1440,
-      "2022-07-24": 35,
-      "2022-06-30": 39
+      "2022-07-24": 35
     }
   }
 ]
